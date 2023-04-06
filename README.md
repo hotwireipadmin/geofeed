@@ -1,0 +1,2 @@
+# geofeed
+Hotwire Geolocate Information
