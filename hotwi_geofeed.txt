@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue 11 Apr 2023 10:51:36 AM EDT
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Apr 12 11:11:19 AM EDT 2023
 2604:8200::/32,US,US-FL,,
 2607:5400::/32,US,US-FL,,
 206.194.192.0/18,US,US-FL,,
@@ -195,7 +195,7 @@
 206.125.53.0/24,US,US-PA,,
 206.125.54.0/24,US,US-PA,,
 206.125.55.0/24,US,US-PA,,
-206.125.56.0/24,US,US-FL,,
+206.125.56.0/24,US,US-FL,Hallandale Beach,
 206.125.57.0/24,US,US-PA,,
 206.125.58.0/24,US,US-GA,Douglasville,
 206.125.59.0/24,US,US-GA,Decatur,
