@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Jun  6 02:07:37 PM EDT 2023
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jun 21 15:50:25 EDT 2023
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 206.194.192.0/26,US,US-FL,Delray Beach,
@@ -104,13 +104,16 @@
 206.194.250.0/25,US,US-FL,Boca Raton,
 206.194.250.128/25,US,US-FL,Pompano Beach,
 206.194.251.0/29,US,US-FL,Coral Gables,
-206.194.251.8/29,US,US-FL,,
+206.194.251.8/29,US,US-FL,Miami,
 206.194.251.16/28,US,US-FL,North Palm Beach,
 206.194.251.32/27,US,US-FL,North Palm Beach,
 206.194.251.64/26,US,US-FL,Coconut Grove,
 206.194.251.128/25,US,US-FL,Coconut Grove,
 206.194.252.0/23,US,US-FL,Pompano Beach,
-206.194.254.0/24,US,US-FL,,
+206.194.254.0/25,US,US-FL,Miami,
+206.194.254.128/26,US,US-FL,Miami,
+206.194.254.192/27,US,US-FL,Miami,
+206.194.254.224/27,US,US-FL,,
 206.194.255.0/24,US,US-FL,Hollywood,
 134.199.0.0/26,US,US-FL,Palm Beach,
 134.199.0.64/26,US,US-FL,Stuart,
