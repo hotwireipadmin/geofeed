@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jun 28 15:43:37 EDT 2023
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jun 28 16:12:05 EDT 2023
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 206.194.192.0/26,US,US-FL,Delray Beach,
@@ -323,7 +323,7 @@
 146.113.145.32/27,US,US-GA,Port Wentworth,
 146.113.145.64/27,US,US-NC,Highlands,
 146.113.145.96/28,US,US-NC,Highlands,
-146.113.145.112/29,US,US-NC,,
+146.113.145.112/29,US,US-TX,Fort Worth,
 146.113.145.120/29,US,US-TX,St Ferris,
 146.113.145.128/25,US,US-GA,Sugar Hill,
 146.113.146.0/24,US,US-TX,Plano,
@@ -369,5 +369,7 @@
 173.199.200.184/29,US,US-FL,Key Colony Beach,
 24.238.11.0/24,US,US-FL,Pompano Beach,
 96.8.8.128/26,US,US-FL,Pompano Beach,
-67.205.226.128/26,US,US-TX,St. Ferris,
-67.205.226.96/27,US,US-TX,St. Ferris,
+67.205.226.0/26,US,US-TX,Fort Worth,
+67.205.226.64/27,US,US-TX,Fort Worth,
+67.205.226.128/26,US,US-TX,St Ferris,
+67.205.226.96/27,US,US-TX,St Ferris,
