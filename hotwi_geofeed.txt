@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Aug 22 09:32:42 EDT 2023
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Aug 22 10:00:31 EDT 2023
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 206.194.192.0/26,US,US-FL,Delray Beach,
@@ -413,3 +413,5 @@
 136.227.200.0/25,US,US-FL,Hialeah,
 136.227.196.0/23,US,US-FL,Boynton Beach,
 136.227.198.0/23,US,US-FL,Boynton Beach,
+136.227.201.0/24,US,US-FL,Boynton Beach,
+136.227.200.128/25,US,US-FL,Boynton Beach,
