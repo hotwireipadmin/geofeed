@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Oct 12 11:30:21 EDT 2023
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Oct 17 16:26:27 EDT 2023
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 206.194.192.0/26,US,US-FL,Delray Beach,
@@ -380,7 +380,8 @@
 146.113.168.0/22,US,US-NC,Highlands,
 146.113.172.0/23,US,US-NC,Highlands,
 146.113.174.0/23,US,US-NC,Highlands,
-146.113.176.0/23,US,US-FL,Tallahassee,
+146.113.177.128/27,US,US-FL,Hallandale Beach,
+146.113.177.160/27,US,US-FL,Sunny Isles Beach,
 146.113.178.0/26,US,US-FL,Bonita Springs,
 146.113.178.64/26,US,US-FL,Naples,
 146.113.178.128/25,US,US-FL,North Fort Myers,
@@ -410,6 +411,7 @@
 164.68.239.0/25,US,US-FL,Miami Beach,
 164.68.239.128/25,US,US-FL,Delray Beach,
 173.199.200.184/29,US,US-FL,Key Colony Beach,
+173.199.201.192/27,US,US-FL,Delray Beach,
 173.199.206.64/26,US,US-FL,Palm Coast,
 173.199.213.192/26,US,US-FL,Margate,
 173.199.216.0/26,US,US-FL,Boynton Beach,
@@ -452,6 +454,9 @@
 67.205.251.0/24,US,US-FL,Ormond Beach,
 70.35.90.0/23,US,US-FL,Oakland Park,
 170.250.29.0/24,US,US-TX,Irving,
+170.250.64.0/26,US,US-FL,Bonita Springs,
+170.250.64.64/28,US,US-FL,Bonita Springs,
+170.250.64.80/29,US,US-FL,Bonita Springs,
 170.250.90.0/24,US,US-FL,Boynton Beach,
 72.13.140.0/23,US,US-FL,Miami,
 72.13.146.0/23,US,US-FL,Hialeah,
