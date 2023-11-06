@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Nov  6 08:51:57 EST 2023
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Nov  6 10:37:26 EST 2023
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 206.194.192.0/26,US,US-FL,Delray Beach,
@@ -75,6 +75,8 @@
 206.194.233.128/26,US,US-SC,Myrtle Beach,
 206.194.233.192/26,US,US-NC,Highlands,
 206.194.234.0/24,US,US-GA,Port Wentworth,
+206.194.235.0/25,US,US-GA,Port Wentworth,
+206.194.235.128/26,US,US-GA,Port Wentworth,
 206.194.236.0/26,US,US-NC,Raleigh,
 206.194.236.64/26,US,US-TX,Princeton,
 206.194.236.128/25,US,US-NC,Raleigh,
@@ -400,6 +402,7 @@
 146.113.214.128/25,US,US-NC,Durham,
 162.210.205.0/24,US,US-FL,Boca Raton,
 164.68.154.0/24,US,US-NC,Apex,
+164.68.155.0/24,US,US-GA,Port Wentworth,
 164.68.187.64/26,US,US-FL,Miami,
 164.68.187.128/27,US,US-FL,Miami,
 164.68.187.160/27,US,US-FL,Miami,
@@ -420,6 +423,7 @@
 164.68.238.128/25,US,US-FL,Stuart,
 164.68.239.0/25,US,US-FL,Miami Beach,
 164.68.239.128/25,US,US-FL,Delray Beach,
+173.199.192.0/24,US,US-GA,Port Wentworth,
 173.199.200.184/29,US,US-FL,Key Colony Beach,
 173.199.201.192/27,US,US-FL,Delray Beach,
 173.199.201.224/28,US,US-FL,Boca Raton, 
@@ -465,6 +469,8 @@
 67.205.237.0/26,US,US-TX,Pleasanton,
 67.205.237.64/27,US,US-TX,Pleasanton,
 67.205.237.128/25,US,US-TX,Uhland,
+67.205.250.0/25,US,US-NC,Durham,
+67.205.250.128/26,US,US-NC,Durham,
 67.205.251.0/24,US,US-FL,Ormond Beach,
 70.35.90.0/23,US,US-FL,Oakland Park,
 170.250.13.0/24,US,US-FL,Boca Raton,
