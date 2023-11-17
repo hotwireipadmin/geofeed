@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Nov 16 10:24:32 EST 2023
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Nov 17 09:52:40 EST 2023
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.28.90.24/30,US,US-FL,Venice,
@@ -589,6 +589,7 @@
 136.227.244.0/25,US,US-FL,Tampa,
 136.227.244.128/26,US,US-FL,Tampa,
 136.227.244.192/27,US,US-FL,Tampa,
+136.227.244.224/27,US,US-FL,Tampa,
 136.227.245.0/25,US,US-FL,Venice,
 136.227.245.128/25,US,US-FL,Apopka,
 136.227.246.0/23,US,US-FL,St Cloud,
@@ -601,3 +602,5 @@
 136.227.252.224/27,US,US-FL,Cape Canaveral,
 136.227.253.0/25,US,US-FL,Cape Canaveral,
 136.227.253.128/26,US,US-FL,Cape Canaveral,
+136.227.253.192/26,US,US-FL,Tampa,
+136.227.254.0/25,US,US-FL,Tampa,
