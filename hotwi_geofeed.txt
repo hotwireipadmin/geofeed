@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Nov 17 09:52:40 EST 2023
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Nov 28 18:43:08 EST 2023
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.28.90.24/30,US,US-FL,Venice,
@@ -416,6 +416,7 @@
 164.68.199.128/25,US,US-FL,West Palm Beach,
 164.68.200.0/24,US,US-FL,Miami,	
 164.68.201.0/24,US,US-FL,West Palm Beach,
+164.68.207.0/25,US,US-FL,Homestead,
 164.68.226.0/23,US,US-FL,Jacksonville,
 164.68.232.0/26,US,US-FL,Miami,
 164.68.232.64/27,US,US-FL,Hallandale Beach,
@@ -463,7 +464,9 @@
 96.8.27.64/26,US,US-FL,Boynton Beach,
 67.14.232.0/24,US,US-FL,Boca Raton,
 67.205.213.0/25,US,US-FL,Delray Beach,
+67.205.213.128/27,US,US-FL,Estero,
 67.205.213.160/27,US,US-FL,Palm City,
+67.205.213.192/26,US,US-FL,Estero,
 67.205.226.0/26,US,US-NC,Durham,
 67.205.226.96/27,US,US-TX,Ferris,
 67.205.226.128/26,US,US-TX,Ferris,
@@ -487,6 +490,8 @@
 170.250.90.0/24,US,US-FL,Boynton Beach,
 170.250.198.0/23,US,US-FL,Boca Raton,
 170.250.238.0/25,US,US-FL,Deerfield Beach,
+170.250.238.128/28,US,US-FL,Estero,
+170.250.238.192/26,US,US-FL,Bay Harbor Islands,
 72.13.140.0/23,US,US-FL,Miami,
 72.13.146.0/23,US,US-FL,Hialeah,
 74.51.230.16/28,US,US-FL,Miami Beach,
