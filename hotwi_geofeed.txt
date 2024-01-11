@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jan 10 09:25:01 EST 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Jan 11 14:05:28 EST 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.28.90.24/30,US,US-FL,Venice,
@@ -486,6 +486,8 @@
 67.14.234.160/28,US,US-FL,Palm Beach Gardens,
 67.14.234.176/28,US,US-FL,Sunrise,
 67.14.234.192/28,US,US-FL,Delray Beach,
+67.14.234.208/28,US,US-FL,Port St Lucie,
+67.14.234.224/28,US,US-FL,Boca Raton,
 67.205.196.0/26,US,US-FL,Key Largo,
 67.205.196.64/29,US,US-FL,Key Largo,
 67.205.196.80/28,US,US-FL,Key Largo,
