@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Jan 22 17:57:31 EST 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jan 24 10:35:49 EST 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.28.90.24/30,US,US-FL,Venice,
@@ -432,6 +432,8 @@
 164.68.202.0/24,US,US-TX,Pleasanton,
 164.68.203.0/24,US,US-TX,San Antonio,
 164.68.205.0/28,US,US-FL,Miami,
+164.68.205.32/28,US,US-FL,Delray Beach,
+164.68.205.48/28,US,US-FL,Aventura,
 164.68.205.64/26,US,US-FL,Miami,
 164.68.205.128/25,US,US-FL,Miami,
 164.68.206.0/25,US,US-FL,Homestead,
@@ -445,6 +447,7 @@
 164.68.217.0/25,US,US-FL,Bal Harbour,
 164.68.217.128/26,US,US-FL,Bal Harbour,
 164.68.217.192/28,US,US-FL,Bal Harbour,
+164.68.217.208/28,US,US-FL,Wellington,
 164.68.226.0/23,US,US-FL,Jacksonville,
 164.68.232.0/26,US,US-FL,Miami,
 164.68.232.64/27,US,US-FL,Hallandale Beach,
@@ -704,5 +707,6 @@
 216.228.24.0/24,US,US-NC,Knightdale,
 216.228.25.0/25,US,US-NC,Knightdale,
 216.228.25.128/26,US,US-NC,Knightdale,
+216.228.26.0/24,US,US-NC,Statesville,
 216.228.28.0/24,US,US-FL,Jacksonville,
 216.228.29.0/26,US,US-FL,Jacksonville,
