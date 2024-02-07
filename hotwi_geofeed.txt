@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Jan 30 14:18:55 EST 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Feb  7 16:43:42 EST 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.28.90.24/30,US,US-FL,Venice,
@@ -259,7 +259,9 @@
 139.68.194.0/25,US,US-FL,Place Tequesta,
 139.68.194.128/26,US,US-FL,Fort Lauderdale,
 139.68.196.0/24,US,US-TX,Houston,
+139.68.210.0/24,US,US-NV,Henderson,
 139.68.211.0/24,US,US-CA,Los Angeles,
+139.68.213.0/26,US,US-NV,Henderson,
 139.68.220.0/22,US,US-FL,Bradenton,
 139.68.224.0/22,US,US-FL,Naples,
 139.68.228.0/22,US,US-FL,Naples,
@@ -450,6 +452,8 @@
 164.68.238.128/25,US,US-FL,Stuart,
 164.68.239.0/25,US,US-FL,Miami Beach,
 164.68.239.128/25,US,US-FL,Delray Beach,
+164.68.244.0/23,US,US-NV,Henderson,
+164.68.248.0/23,US,US-GA,Port Wentworth,
 173.199.192.0/24,US,US-GA,Port Wentworth,
 173.199.200.184/29,US,US-FL,Key Colony Beach,
 173.199.201.192/27,US,US-FL,Delray Beach,
@@ -528,6 +532,7 @@
 67.205.237.128/25,US,US-TX,Uhland,
 67.205.250.0/25,US,US-NC,Durham,
 67.205.250.128/26,US,US-NC,Durham,
+67.205.250.192/26,US,US-NC,Salisbury,
 67.205.251.0/24,US,US-FL,Ormond Beach,
 70.35.90.0/23,US,US-FL,Oakland Park,
 170.250.13.0/24,US,US-FL,Boca Raton,
@@ -583,6 +588,8 @@
 134.56.198.0/25,US,US-TX,Corpus Christi,
 134.56.198.128/26,US,US-TX,Ferris,
 134.56.199.0/24,US,US-TX,San Antonio,
+134.56.206.0/26,US,US-FL,Fort Myers,
+134.56.206.64/27,US,US-FL,Fort Myers,
 134.56.221.0/25,US,US-FL,Stuart,
 134.56.251.0/24,US,US-VA,Prince George,
 107.181.60.0/24,US,US-TX,Lowry Crossing,
