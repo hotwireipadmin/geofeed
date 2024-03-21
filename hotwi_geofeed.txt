@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Mar 19 12:48:16 EDT 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Mar 21 10:22:03 EDT 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.28.90.24/30,US,US-FL,Venice,
@@ -262,8 +262,9 @@
 139.68.194.192/26,US,US-FL,Fort Lauderdale,
 139.68.196.0/24,US,US-TX,Houston,
 139.68.197.0/24,US,US-TX,Georgetown,
+139.68.208.0/23,US,US-AZ,Mesa,
 139.68.210.0/24,US,US-NV,Henderson,
-139.68.211.0/24,US,US-CA,Los Angeles,
+139.68.211.0/24,US,US-AZ,Sunrise,
 139.68.213.0/26,US,US-NV,Henderson,
 139.68.220.0/22,US,US-FL,Bradenton,
 139.68.224.0/22,US,US-FL,Naples,
@@ -478,6 +479,7 @@
 164.68.244.0/23,US,US-NV,Henderson,
 164.68.248.0/23,US,US-GA,Port Wentworth,
 164.68.250.0/25,US,US-NC,Graham,
+164.68.251.0/24,US,US-SC,Hardeeville,
 168.235.140.0/23,US,US-FL,Longboat Key,
 173.199.192.0/24,US,US-GA,Port Wentworth,
 173.199.200.184/29,US,US-FL,Key Colony Beach,
@@ -573,6 +575,8 @@
 67.205.236.128/26,US,US-NC,Morrisville,
 67.205.236.192/27,US,US-NC,Morrisville,
 67.205.236.224/28,US,US-NC,Morrisville,
+67.205.237.0/26,US,US-SC,Hardeeville,
+67.205.237.64/27,US,US-SC,Hardeeville,
 67.205.237.128/25,US,US-TX,Uhland,
 67.205.250.0/25,US,US-NC,Durham,
 67.205.250.128/26,US,US-NC,Durham,
@@ -600,6 +604,7 @@
 170.250.64.96/27,US,US-FL,Miami,
 170.250.65.0/24,US,US-FL,Hobe Sound,
 170.250.66.0/27,US,US-FL,Pembroke Pines,
+170.250.67.0/25,US,US-FL,Miami,
 170.250.76.32/27,US,US-FL,Jupiter,
 170.250.85.0/26,US,US-TX,Pleasanton,
 170.250.85.64/26,US,US-TX,Fort Worth,
