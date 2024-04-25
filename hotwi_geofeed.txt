@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Apr 22 09:23:33 EDT 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Apr 25 13:19:37 EDT 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -303,6 +303,7 @@
 139.68.239.224/27,US,US-FL,Miami,
 139.68.240.0/21,US,US-FL,Fort Lauderdale,
 139.68.248.0/25,US,US-FL,Venice,
+139.68.248.128/27,US,US-FL,Pinellas Park,
 139.68.248.160/27,US,US-FL,Tampa,
 139.68.248.192/26,US,US-FL,Lutz,
 139.68.249.0/25,US,US-FL,Sarasota,
@@ -647,6 +648,8 @@
 170.250.105.0/24,US,US-FL,Pompano Beach,
 170.250.129.96/27,US,US-FL,Boynton Beach,
 170.250.136.0/25,US,US-FL,Boynton Beach,
+170.250.136.128/26,US,US-FL,Sunny Isles Beach,
+170.250.136.192/27,US,US-FL,Sunny Isles Beach,
 170.250.171.0/24,US,US-FL,Miami Beach,
 170.250.189.128/25,US,US-FL,Miami Beach,
 170.250.198.0/23,US,US-FL,Boca Raton,
@@ -836,6 +839,7 @@
 207.177.246.0/28,US,US-FL,Longboat,
 207.177.246.16/28,US,US-FL,Venice,
 207.177.246.32/28,US,US-FL,Venice,
+207.177.246.48/28,US,US-FL,Pinellas Park,
 207.177.246.64/26,US,US-FL,Tampa,
 207.177.246.128/25,US,US-FL,Tampa,
 216.228.0.0/24,US,US-TX,Converse
@@ -850,6 +854,7 @@
 216.228.9.0/24,US,US-TX,Rosenburg,
 216.228.10.0/24,US,US-TX,Forney,
 216.228.12.0/24,US,US-TX,Aubrey,
+216.228.13.0/24,US,US-TX,San Antonio,
 216.228.14.0/24,US,US-TX,Fort Worth,
 216.228.15.128/28,US,US-TX,Houston,
 216.228.15.144/28,US,US-TX,Houston,
