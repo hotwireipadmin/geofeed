@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Apr 26 12:41:33 EDT 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu May 2 10:45:20 EDT 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -579,6 +579,7 @@
 67.14.225.64/28,US,US-FL,Palm Beach Gardens,
 67.14.225.80/28,US,US-FL,Estero,
 67.14.225.96/28,US,US-FL,Boca Raton,
+67.14.225.112/28,US,US-FL,Naples,
 67.14.232.0/24,US,US-FL,Boca Raton,
 67.14.234.128/28,US,US-FL,Naples,
 67.14.234.144/28,US,US-FL,Boynton Beach,
@@ -720,10 +721,12 @@
 134.56.179.0/25,US,US-FL,Pompano Beach,
 134.56.180.0/24,US,US-CA,Playa Vista,
 134.56.192.64/27,US,US-FL,Miami,
+134.56.192.128/26,US,US-FL,Delray Beach,
 134.56.198.0/25,US,US-TX,Corpus Christi,
 134.56.198.128/26,US,US-TX,Ferris,
 134.56.198.224/27,US,US-TX,Houston,
 134.56.199.0/24,US,US-TX,San Antonio,
+134.56.200.0/24,US,US-FL,Delray Beach,
 134.56.206.0/26,US,US-FL,Fort Myers,
 134.56.206.64/27,US,US-FL,Fort Myers,
 134.56.206.96/28,US,US-FL,Estero,
@@ -895,5 +898,8 @@
 216.228.25.0/25,US,US-NC,Knightdale,
 216.228.25.128/26,US,US-NC,Knightdale,
 216.228.26.0/24,US,US-NC,Statesville,
+216.228.27.0/24,US,US-TX,Jarrell,
 216.228.28.0/24,US,US-FL,Jacksonville,
 216.228.29.0/26,US,US-FL,Jacksonville,
+216.228.29.64/27,US,US-FL,Pensacola,
+216.228.29.96/28,US,US-FL,Pensacola,
