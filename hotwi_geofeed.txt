@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Jul  2 10:53:02 EDT 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Jul 12 14:17:50 EDT 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -286,7 +286,7 @@
 139.68.232.0/24,US,US-FL,Naples,
 139.68.233.0/27,US,US-FL,Miami Beach,
 139.68.233.32/27,US,US-FL,Miami,
-139.68.233.64/26,US,US-FL,Miami,
+139.68.233.64/26,US,US-FL,Pembroke Pines,
 139.68.233.128/26,US,US-FL,Miami Beach,
 139.68.233.192/28,US,US-FL,Boca Raton,
 139.68.233.208/28,US,US-FL,Miami,
@@ -436,6 +436,8 @@
 146.113.212.0/24,US,US-FL,Palm Bay,
 146.113.213.0/25,US,US-FL,Palm Bay,
 146.113.213.128/26,US,US-FL,Palm Bay,
+146.113.213.192/27,US,US-FL,Pensacola,
+146.113.213.224/28,US,US-FL,Pensacola,
 146.113.214.0/27,US,US-GA,Richmond Hill,
 146.113.214.64/26,US,US-NC,Graham,
 146.113.214.128/25,US,US-NC,Durham,
@@ -735,6 +737,8 @@
 170.250.238.128/28,US,US-FL,Estero,
 170.250.238.144/28,US,US-FL,Fort Lauderdale,
 170.250.238.192/26,US,US-FL,Bay Harbor Islands,
+170.250.245.128/25,US,US-FL,Pompano Beach,
+170.250.247.128/26,US,US-FL,Pompano Beach,
 170.250.249.48/29,US,US-FL,Palm Beach Gardens,
 72.13.139.0/24,US,US-FL,Miami Beach,
 72.13.140.0/23,US,US-FL,Miami,
@@ -796,6 +800,7 @@
 134.56.146.0/28,US,US-FL,Boca Raton,
 134.56.146.16/28,US,US-FL,Lake Worth,
 134.56.146.32/28,US,US-FL,Jupiter,
+134.56.146.48/28,US,US-FL,Pompano Beach,
 134.56.146.128/25,US,US-FL,Hollywood,
 134.56.151.0/24,US,US-FL,Fort Myers,
 134.56.156.0/23,US,US-FL,Fort Myers,
@@ -1028,5 +1033,3 @@
 216.228.27.0/24,US,US-TX,Jarrell,
 216.228.28.0/24,US,US-FL,Jacksonville,
 216.228.29.0/26,US,US-FL,Jacksonville,
-216.228.29.64/27,US,US-FL,Pensacola,
-216.228.29.96/28,US,US-FL,Pensacola,
