@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Oct 29 15:44:29 EDT 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Nov  4 12:26:39 EST 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -645,6 +645,7 @@
 173.199.201.224/28,US,US-FL,Boca Raton, 
 173.199.201.240/28,US,US-FL,Naples,
 173.199.206.64/26,US,US-FL,Palm Coast,
+173.199.209.64/30,US,US-FL,Fort Lauderdale,
 173.199.209.80/28,US,US-FL,Loxahatchee,
 173.199.213.192/26,US,US-FL,Margate,
 173.199.214.0/24,US,US-FL,Fort Lauderdale,
@@ -861,6 +862,7 @@
 170.250.139.0/24,US,US-FL,Sunny Isles Beach,
 170.250.140.0/24,US,US-TX,Wharton,
 170.250.141.0/24,US,US-TX,Hutto,
+170.250.169.224/27,US,US-FL,Naples,
 170.250.171.0/24,US,US-FL,Miami Beach,
 170.250.172.0/26,US,US-FL,Milton,
 170.250.172.64/26,US,US-FL,Groveland,
@@ -931,6 +933,7 @@
 134.56.16.176/28,US,US-FL,Fort Myers,
 134.56.30.0/23,US,US-FL,Miami,
 134.56.32.64/28,US,US-FL,Miami,
+134.56.32.80/28,US,US-FL,Sunny Isles Beach,
 134.56.38.128/26,US,US-FL,Fort Lauderdale,
 134.56.39.0/25,US,US-FL,Boca Raton,
 134.56.39.128/25,US,US-FL,Fort Myers,
@@ -946,6 +949,7 @@
 134.56.50.0/26,US,US-FL,Key West,
 134.56.78.0/23,US,US-FL,Miami,
 134.56.112.192/26,US,US-FL,Fort Myers,
+134.56.118.128/25,US,US-FL,Naples,
 134.56.128.0/27,US,US-FL,Fort Lauderdale,
 134.56.130.0/24,US,US-FL,Miami,
 134.56.132.0/24,US,US-FL,Englewood,
@@ -1081,6 +1085,7 @@
 134.56.223.80/28,US,US-FL,Naples,
 134.56.223.96/27,US,US-FL,Palm Beach Shores,
 134.56.223.128/25,US,US-FL,Palm Beach Shores,
+134.56.226.192/26,US,US-FL,Fort Lauderdale,
 134.56.240.0/24,US,US-SC,Conway,
 134.56.241.0/24,US,US-NC,Angier,
 134.56.242.0/24,US,US-NC,Durham,
