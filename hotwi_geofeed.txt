@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Nov 26 13:47:46 EST 2024
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Nov 28 13:51:21 EST 2024
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -431,6 +431,10 @@
 146.113.180.80/28,US,US-FL,,
 146.113.180.96/27,US,US-FL,,
 146.113.180.128/25,US,US-FL,,
+146.113.182.0/26,US,US-FL,Jupiter,
+146.113.182.64/28,US,US-FL,Doral,
+146.113.182.80/28,US,US-FL,Stuart,
+146.113.182.96/28,US,US-FL,Wellington,
 146.113.184.0/25,US,US-FL,Boca Raton,
 146.113.185.0/26,US,US-FL,Fort Myers,
 146.113.185.64/29,US,US-FL,Coconut Grove,
@@ -689,6 +693,7 @@
 23.252.192.64/27,US,US-FL,Fort Myers,
 23.252.192.96/27,US,US-FL,Naples,
 24.238.1.64/27,US,US-FL,Palm Beach Gardens,
+24.238.2.64/26,US,US-PA,Feasterville-Trevose,
 24.238.4.0/28,US,US-FL,Fort Lauderdale,
 24.238.4.16/28,US,US-FL,Dania Beach,
 24.238.4.32/27,US,US-FL,Miami,
@@ -946,6 +951,7 @@
 134.56.12.0/25,US,US-GA,Atlanta,
 134.56.12.128/26,US,US-GA,Atlanta,
 134.56.12.192/26,US,US-SC,Loris,
+134.56.16.96/27,US,US-FL,Bonita Springs,
 134.56.16.160/28,US,US-FL,Fort Myers,
 134.56.16.176/28,US,US-FL,Fort Myers,
 134.56.18.0/24,US,US-FL,Parrish,
@@ -993,6 +999,7 @@
 134.56.143.0/25,US,US-FL,Loxahatchee,
 134.56.143.128/25,US,US-FL,Pembroke Pines,
 134.56.145.128/28,US,US-FL,Pompano Beach,
+134.56.145.144/28,US,US-FL,Coral Gables,
 134.56.146.0/28,US,US-FL,Boca Raton,
 134.56.146.16/28,US,US-FL,Lake Worth,
 134.56.146.32/28,US,US-FL,Jupiter,
