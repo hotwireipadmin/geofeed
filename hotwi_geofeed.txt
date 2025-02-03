@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Sat Feb  1 08:42:15 EST 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Feb  3 09:44:43 EST 2025
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -18,6 +18,7 @@
 8.25.22.0/24,US,US-FL,Kissimmee,
 8.25.28.0/23,US,US-TX,Rosenberg,
 8.25.30.0/26,US,US-TX,Sherman,
+8.25.31.0/24,US,US-TX,Needville,
 8.25.90.0/24,US,US-FL,Kissimmee,
 8.25.91.0/24,US,US-FL,Kissimmee,
 8.25.95.0/24,US,US-FL,Kissimmee,
@@ -42,6 +43,7 @@
 8.28.234.0/24,US,US-FL,West Palm Beach,
 8.28.235.0/24,US,US-FL,West Palm Beach,
 8.29.4.0/24,US,US-TX,Katy,
+8.29.166.0/24,US,US-TX,Crandall,
 8.29.167.0/24,US,US-TX,Katy,
 192.159.40.0/25,US,US-FL,Jacksonville,
 192.159.40.128/26,US,US-FL,Jacksonville,
@@ -305,7 +307,7 @@
 139.68.194.0/25,US,US-FL,Place Tequesta,
 139.68.194.128/26,US,US-FL,Fort Lauderdale,
 139.68.194.192/26,US,US-FL,Fort Lauderdale,
-139.68.196.0/24,US,US-TX,Houston,
+139.68.196.0/24,US,US-TX,Hockley,
 139.68.197.0/24,US,US-TX,Georgetown,
 139.68.208.0/23,US,US-AZ,Mesa,
 139.68.210.0/24,US,US-NV,Henderson,
@@ -1026,6 +1028,7 @@
 134.56.19.0/24,US,US-FL,Ponce Inlet,
 134.56.20.0/24,US,US-TX,Sherman,
 134.56.21.0/24,US,US-TX,Baytown,
+134.56.22.0/24,US-TX,Houston,
 134.56.30.0/23,US,US-FL,Miami,
 134.56.32.64/28,US,US-FL,Miami,
 134.56.32.80/28,US,US-FL,Sunny Isles Beach,
@@ -1153,7 +1156,7 @@
 134.56.198.0/25,US,US-TX,Corpus Christi,
 134.56.198.128/26,US,US-TX,Ferris,
 134.56.198.208/29,US,US-TX,Katy,
-134.56.198.224/27,US,US-TX,Houston,
+134.56.198.224/27,US,US-TX,Hockley,
 134.56.198.200/29,US,US-TX,Houston,
 134.56.199.0/24,US,US-TX,San Antonio,
 134.56.200.0/24,US,US-FL,Delray Beach,
