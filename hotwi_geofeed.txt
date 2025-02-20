@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Feb 18 09:21:27 EST 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Feb 20 14:40:42 EST 2025
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -44,6 +44,7 @@
 8.28.234.0/24,US,US-FL,West Palm Beach,
 8.28.235.0/24,US,US-FL,West Palm Beach,
 8.29.4.0/24,US,US-TX,Katy,
+8.29.5.0/24,US,US-TX,Princeton,
 8.29.21.0/25,US,US-SC,Summerville,
 8.29.21.128/26,US,US-SC,Summerville,
 8.29.166.0/24,US,US-TX,Crandall,
