@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Mar 21 11:20:34 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Mar 24 14:13:45 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -1448,6 +1448,7 @@
 216.228.16.0/22,US,US-CA,Palm Desert,
 216.228.20.0/24,US,US-CA,Palm Desert,
 216.228.21.0/25,US,US-CA,Palm Desert,
+216.228.22.0/24,US,US-AZ,Maricopa,
 216.228.24.0/24,US,US-NC,Knightdale,
 216.228.25.0/25,US,US-NC,Knightdale,
 216.228.25.128/26,US,US-NC,Knightdale,
