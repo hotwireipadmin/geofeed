@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Apr 10 13:47:12 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Apr 15 18:27:05 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderale,
 2607:5400::/32,US,US-FL,Fort Lauderale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -652,6 +652,7 @@
 164.68.174.192/27,US,US-FL,Groveland,
 164.68.174.224/28,US,US-FL,Groveland,
 164.68.174.240/29,US,US-FL,Venice,
+164.68.174.248/29,US,US-FL,Venice,
 164.68.176.0/25,US,US-FL,Venice,
 164.68.176.128/26,US,US-FL,Tampa,
 164.68.176.192/27,US,US-FL,Apopka,
@@ -1005,6 +1006,10 @@
 170.250.91.0/24,US,US-FL,Homestead,
 170.250.94.208/28,US,US-FL,Bal Harbour,
 170.250.100.0/24,US,US-FL,Land O' Lakes,
+170.250.101.0/25,US,US-FL,Venice,
+170.250.101.128/25,US,US-FL,Longboat Key,
+170.250.102.0/24,US,US-FL,Bradenton,
+170.250.103.0/27,US,US-FL,Longboat Key,
 170.250.104.0/24,US,US-FL,Pompano Beach,
 170.250.105.0/24,US,US-FL,Pompano Beach,
 170.250.113.192/26,US,US-FL,Miami,
@@ -1152,6 +1157,8 @@
 134.56.120.0/24,US,US-FL,Estero,
 134.56.123.128/28,US,US-FL,Miami,
 134.56.123.144/28,US,US-FL,Lake Worth,
+134.56.123.160/28,US,US-FL,Pompano Beach,
+134.56.123.176/28,US,US-FL,Fort Lauderdale,
 134.56.126.0/25,US,US-GA,Calhoun,
 134.56.126.128/26,US,US-SC,Mrytle Beach,
 134.56.126.192/27,US,US-SC,Mrytle Beach,
