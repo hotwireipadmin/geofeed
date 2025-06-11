@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Jun  5 17:30:40 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jun 11 09:31:32 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -366,6 +366,7 @@
 139.68.196.0/24,US,US-TX,Hockley,
 139.68.197.0/24,US,US-TX,Georgetown,
 139.68.198.0/24,US,US-TX,Rosenberg,
+139.68.199.0/24,US,US-TX,Mesquite,
 139.68.208.0/23,US,US-AZ,Mesa,
 139.68.210.0/24,US,US-NV,Henderson,
 139.68.211.0/24,US,US-AZ,Sunrise,
@@ -1051,6 +1052,7 @@
 170.250.114.0/30,US,US-FL,Fort Lauderdale,
 170.250.118.0/25,US,US-TX,Rosenberg,
 170.250.118.128/25,US,US-TX,Montgomery,
+170.250.119.0/24,US,US-TX,Baytown,
 170.250.122.0/24,US,US-TX,Atascosa,
 170.250.123.0/24,US,US-TX,Montgomery,
 170.250.129.0/26,US,US-FL,Pompano Beach,
@@ -1536,6 +1538,7 @@
 207.177.251.0/24,US,US-TX,Fort Worth,
 207.177.252.0/26,US,US-TX,Rosenberg,
 207.177.252.64/26,US,US-TX,San Antonio,
+207.177.252.128/26,US,US-TX,Mesquite,
 207.177.254.0/24,US,US-TX,Waller,
 207.177.255.0/24,US,US-TX,Waller,
 216.228.0.0/24,US,US-TX,Converse,
