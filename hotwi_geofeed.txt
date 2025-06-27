@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jun 25 17:38:11 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Jun 27 17:23:42 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -480,7 +480,8 @@
 146.113.147.192/26,US,US-TX,San Antonio,
 146.113.148.0/24,US,US-SC,Charleston,
 146.113.149.0/24,US,US-GA,Richmond Hill,
-146.113.150.0/23,US,US-FL,Tallahassee,
+146.113.150.0/24,US,US-FL,Tallahassee,
+146.113.151.0/24,US,US-TX,Converse,
 146.113.152.0/28,US,US-NV,Las Vegas,
 146.113.152.16/28,US,US-AZ,Maricopa,
 146.113.152.32/27,US,US-NV,Las Vegas,
@@ -1337,9 +1338,11 @@
 134.56.193.192/26,US,US-FL,Tamarac,
 134.56.198.0/25,US,US-TX,Corpus Christi,
 134.56.198.128/26,US,US-TX,Ferris,
-134.56.198.208/29,US,US-TX,Katy,
-134.56.198.224/27,US,US-TX,Hockley,
+134.56.198.192/29,US,US-TX,Hockley,
 134.56.198.200/29,US,US-TX,Houston,
+134.56.198.208/29,US,US-TX,Katy,
+134.56.198.216/29,US,US-TX,Floresville,
+134.56.198.224/27,US,US-TX,Hockley,
 134.56.199.0/24,US,US-TX,San Antonio,
 134.56.200.0/24,US,US-FL,Delray Beach,
 134.56.202.0/28,US,US-FL,Miami Beach,
