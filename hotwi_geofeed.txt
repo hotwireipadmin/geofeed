@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Jul 10 14:45:21 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Jul 15 15:42:31 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -155,6 +155,9 @@
 206.194.220.0/22,US,US-FL,Lehigh Acres,
 206.194.224.0/26,US,US-FL,Tampa,
 206.194.224.64/28,US,US-FL,Tampa,
+206.194.224.80/28,US,US-FL,Venice,
+206.194.224.96/27,US,US-FL,Venice,
+206.194.224.128/25,US,US-FL,Venice,
 206.194.225.0/24,US,US-FL,Parrish,
 206.194.226.0/24,US,US-FL,Davenport,
 206.194.227.0/27,US,US-FL,Land O Lakes,
@@ -601,6 +604,7 @@
 146.113.227.80/28,US,US-FL,Venice,
 146.113.227.96/27,US,US-FL,Venice,
 146.113.227.128/26,US,US-FL,Venice,
+146.113.227.192/27,US,US-FL,Venice,
 146.113.227.224/27,US,US-FL,Orlando,
 146.113.228.0/23,US,US-FL,Orlando,
 146.113.230.0/24,US,US-FL,Parrish,
@@ -715,6 +719,7 @@
 164.68.194.0/23,US,US-FL,Naples,
 164.68.196.128/25,US,US-FL,Miami,
 164.68.197.0/24,US,US-FL,Davie,
+164.68.198.32/28,US,US-FL,Sunny Isles Beach,
 164.68.198.128/28,US,US-FL,Naples,
 164.68.198.144/28,US,US-FL,Naples,
 164.68.198.192/26,US,US-FL,Pompano Beach,
@@ -1127,6 +1132,7 @@
 170.250.208.208/28,US,US-FL,Riviera Beach,
 170.250.208.224/28,US,US-FL,Hialeah,
 170.250.208.240/28,US,US-FL,Miami Beach,
+170.250.211.128/25,US,US-FL,Miami,
 170.250.212.0/23,US,US-FL,Naples,
 170.250.228.0/24,US,US-FL,Ponce Inlet,
 170.250.229.0/25,US,US-FL,Ponce Inlet,
@@ -1235,6 +1241,7 @@
 134.56.115.8/29,US,US-FL,Naples,
 134.56.115.16/28,US,US-FL,Fort Myers,
 134.56.115.32/28,US,US-FL,Naples,
+134.56.115.48/28,US,US-FL,Naples,
 134.56.115.64/26,US,US-FL,Iona,
 134.56.115.128/27,US,US-FL,Fort Myers,
 134.56.118.0/25,US,US-FL,Naples,
