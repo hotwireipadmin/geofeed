@@ -792,6 +792,8 @@
 164.68.238.128/25,US,US-FL,Stuart,
 164.68.239.0/25,US,US-FL,Miami Beach,
 164.68.239.128/25,US,US-FL,Delray Beach,
+164.68.240.0/24,US,US-CA,Playa Vista,
+164.68.241.0/24,US,US-CA,Playa Vista,
 164.68.242.0/23,US,US-AZ,Phoenix,
 164.68.244.0/23,US,US-NV,Henderson,
 164.68.246.0/23,US,US-AZ,Buckeye,
@@ -1629,3 +1631,4 @@
 216.228.28.0/24,US,US-FL,Jacksonville,
 216.228.29.0/26,US,US-FL,Jacksonville,
 216.228.29.64/26,US,US-FL,Green Cove Springs,
+
