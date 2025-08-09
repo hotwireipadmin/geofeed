@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Aug  7 12:45:19 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Aug  8 20:58:53 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -1263,6 +1263,7 @@
 134.56.115.128/27,US,US-FL,Fort Myers,
 134.56.115.160/29,US,US-FL,North Naples,
 134.56.115.176/28,US,US-FL,Bonita Springs,
+134.56.115.192/28,US,US-FL,Sarasota,
 134.56.118.0/25,US,US-FL,Naples,
 134.56.118.128/25,US,US-FL,Naples,
 134.56.119.0/25,US,US-FL,Naples,
@@ -1648,4 +1649,5 @@
 216.228.28.0/24,US,US-FL,Jacksonville,
 216.228.29.0/26,US,US-FL,Jacksonville,
 216.228.29.64/26,US,US-FL,Green Cove Springs,
+
 
