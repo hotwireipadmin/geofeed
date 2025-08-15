@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Aug  8 20:58:53 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Aug 15 14:02:45 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -535,7 +535,8 @@
 146.113.178.0/26,US,US-FL,Bonita Springs,
 146.113.178.64/26,US,US-FL,Naples,
 146.113.178.128/25,US,US-FL,Boca Raton,
-146.113.179.0/26,US,US-FL,Naples,
+146.113.179.0/28,US,US-FL,Key Largo,
+146.113.179.16/28,US,US-FL,Jensen Beach,
 146.113.179.64/28,US,US-FL,Naples,
 146.113.179.80/28,US,US-FL,Bonita Beach,
 146.113.179.96/27,US,US-FL,Naples,
@@ -1089,6 +1090,7 @@
 170.250.121.0/25,US,US-FL,Jacksonville,
 170.250.121.128/28,US,US-AL,Fairhope,
 170.250.121.144/28,US,US-FL,St. Cloud,
+170.250.121.160/28,US,US-FL,Sarasota,
 170.250.122.0/24,US,US-TX,Atascosa,
 170.250.123.0/24,US,US-TX,Montgomery,
 170.250.129.0/26,US,US-FL,Pompano Beach,
@@ -1131,6 +1133,7 @@
 170.250.189.128/25,US,US-FL,Miami Beach,
 170.250.190.0/24,US,US-FL,Tampa,
 170.250.191.0/25,US,US-FL,Homestead,
+170.250.191.128/26,US,US-FL,North Miami,
 170.250.198.0/23,US,US-FL,Boca Raton,
 170.250.202.0/28,US,US-FL,Fort Lauderdale,
 170.250.202.16/28,US,US-FL,Miami,
@@ -1338,6 +1341,7 @@
 134.56.162.224/28,US,US-FL,Miami,
 134.56.162.240/28,US,US-FL,Bay Harbor Islands,
 134.56.164.0/25,US,US-TX,Houston,
+134.56.164.128/25,US,US-TX,Forney,
 134.56.165.0/24,US,US-TX,Dallas,
 134.56.167.128/25,US,US-FL,Boca Raton,
 134.56.171.128/28,US,US-FL,Miami Beach,
