@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Sep  2 08:12:49 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Sep  4 08:49:03 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.222.0/24,US,US-FL,Boca Raton,
@@ -670,7 +670,7 @@
 164.68.156.0/24,US,US-TX,Von Ormy,
 164.68.157.0/24,US,US-TX,Mesquite,
 164.68.158.0/24,US,US-TX,Converse,
-164.68.159.0/24,US,US-TX,Houston,
+164.68.159.0/24,US,US-TX,Katy,
 164.68.160.0/26,US,US-FL,Miami,
 164.68.161.64/26,US,US-FL,Bradenton,
 164.68.161.128/25,US,US-FL,Naples,
@@ -724,7 +724,7 @@
 164.68.187.160/27,US,US-FL,Miami,
 164.68.187.192/27,US,US-FL,Lauderdale Lakes,
 164.68.187.224/27,US,US-FL,Naples,
-164.68.188.0/24,US,US-TX,Houston,
+164.68.188.0/24,US,US-TX,Katy,
 164.68.189.0/24,US,US-TX,Hockley,
 164.68.194.0/23,US,US-FL,Naples,
 164.68.196.128/25,US,US-FL,Miami,
@@ -1133,7 +1133,7 @@
 170.250.175.0/25,US,US-FL,Orlando,
 170.250.175.128/26,US,US-FL,Ponce Inlet,
 170.250.175.192/26,US,US-FL,Ponce Inlet,
-170.250.176.0/23,US,US-TX,Houston,
+170.250.176.0/23,US,US-TX,Katy,
 170.250.178.0/24,US,US-TX,San Antonio,
 170.250.179.0/24,US,US-TX,Celina,
 170.250.180.0/24,US,US-TX,Ennis,
@@ -1633,7 +1633,7 @@
 216.228.1.0/26,US,US-TX,Converse,
 216.228.1.64/26,US,US-TX,Fort Worth,
 216.228.1.128/25,US,US-TX,Fort Worth,
-216.228.2.0/23,US,US-TX,Houston,
+216.228.2.0/23,US,US-TX,Katy,
 216.228.4.0/24,US,US-TX,Princeton,
 216.228.5.0/24,US,US-TX,San Antonio,
 216.228.6.0/24,US,US-TX,San Antonio,
