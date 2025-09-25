@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Sep 22 15:01:30 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Sep 25 17:19:18 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -121,6 +121,7 @@
 192.159.41.0/25,US,US-FL,Ponte Vedra Beach,
 192.159.41.128/26,US,US-FL,Ponte Vedra Beach,
 192.159.41.192/28,US,US-FL,Titusville,
+192.159.41.208/28,US,US-FL,St. Cloud,
 192.159.42.0/26,US,US-FL,Miami,
 192.159.42.64/26,US,US-FL,Miami,
 206.194.192.0/26,US,US-FL,Delray Beach,
@@ -399,6 +400,7 @@
 139.68.195.0/25,US,US-FL,Haines City,
 139.68.195.128/26,US,US-FL,Miami,
 139.68.195.192/28,US,US-FL,Boynton Beach,
+139.68.195.208/28,US,US-FL,Fort Lauderdale,
 139.68.196.0/24,US,US-TX,Hockley,
 139.68.197.0/24,US,US-TX,Georgetown,
 139.68.198.0/24,US,US-TX,Rosenberg,
@@ -1062,6 +1064,7 @@
 70.35.90.0/24,US,US-TX,San Antonio,
 70.35.91.0/24,US,US-TX,San Antonio,
 170.250.3.192/26,US,US-FL,Davenport,
+170.250.8.0/24,US,US-FL,Plantation,
 170.250.13.0/24,US,US-FL,Boca Raton,
 170.250.14.128/25,US,US-FL,Naples,
 170.250.15.0/24,US,US-FL,Estero,
@@ -1651,6 +1654,8 @@
 207.177.229.48/28,US,US-TX,Katy,
 207.177.229.64/28,US,US-TX,Pattison,
 207.177.229.80/28,US,US-TX,Spring Branch,
+207.177.229.96/28,US,US-TX,Hilltop,
+207.177.229.112/28,US,US-TX,Seabrook,
 207.177.232.0/24,US,US-NV,Henderson,
 207.177.233.0/24,US,US-CA,Los Angeles,
 207.177.234.0/26,US,US-NV,Las Vegas,
