@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Oct  1 12:03:31 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Oct  3 09:28:25 EDT 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -558,6 +558,7 @@
 146.113.161.128/25,US,US-NC,Highlands,
 146.113.162.0/24,US,US-NC,Highlands,
 146.113.163.0/27,US,US-NC,Salisbury,
+146.113.163.32/28,US,US-NC,Durham,
 146.113.164.0/22,US,US-NC,Highlands,
 146.113.168.0/22,US,US-NC,Highlands,
 146.113.172.0/23,US,US-NC,Highlands,
@@ -1658,6 +1659,9 @@
 207.177.229.80/28,US,US-TX,Spring Branch,
 207.177.229.96/28,US,US-TX,Hilltop,
 207.177.229.112/28,US,US-TX,Seabrook,
+207.177.229.128/26,US,US-TX,San Antonio,
+207.177.229.192/26,US,US-TX,Aubrey,
+207.177.230.0/26,US,US-TX,Princeton,
 207.177.232.0/24,US,US-NV,Henderson,
 207.177.233.0/24,US,US-CA,Los Angeles,
 207.177.234.0/26,US,US-NV,Las Vegas,
