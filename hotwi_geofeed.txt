@@ -48,6 +48,7 @@
 8.26.104.0/25,US,US-FL,Green Cove Springs,
 8.26.104.128/26,US,US-FL,Green Cove Springs,
 8.26.104.192/27,US,US-FL,Green Cove Springs,
+8.26.104.224/28,US,US-FL,Jacksonville,
 8.26.114.0/24,US,US-FL,Tallahassee,
 8.26.116.0/24,US,US-FL,Jacksonville,
 8.26.117.0/24,US,US-FL,Jacksonville,
