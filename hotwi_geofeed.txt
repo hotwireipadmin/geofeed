@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Oct 27 13:01:04 EDT 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Nov  5 09:55:13 EST 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -959,6 +959,7 @@
 24.238.117.64/26,US,US-FL,Apopka,
 24.238.117.128/25,US,US-FL,Venice,
 24.238.118.64/28,US,US-FL,Miami,
+24.238.118.80/28,US,US-FL,Wellington,
 24.238.127.16/28,US,US-FL,Palm Bay,
 24.238.127.48/28,US,US-FL,Palm Bay,
 24.238.127.64/26,US,US-FL,Palm Coast,
@@ -972,6 +973,7 @@
 96.8.9.224/27,US,US-FL,Miami,
 96.8.12.0/24,US,US-TX,Lowry Crossing,
 96.8.13.0/24,US,US-TX,Von Ormy,
+96.8.16.0/26,US,US-FL,Miami,
 96.8.22.192/27,US,US-FL,Naranja,
 96.8.22.224/27,US,US-FL,Miami,
 96.8.23.64/26,US,US-FL,Riviera Beach,
@@ -1225,7 +1227,10 @@
 170.250.202.192/26,US,US-FL,Miami,
 170.250.203.0/28,US,US-FL,Fort Lauderdale,
 170.250.203.16/28,US,US-FL,Singer Island,
+170.250.203.32/27,US,US-FL,Palm Beach Shores,
 170.250.203.64/26,US,US-FL,Singer Island,
+170.250.203.128/26,US,US-FL,Palm Beach Shores,
+170.250.203.192/26,US,US-FL,Naples,
 170.250.205.0/24,US,US-FL,Ocala,
 170.250.207.0/25,US,US-FL,Pompano Beach,
 170.250.208.192/28,US,US-FL,Aventura,
@@ -1686,6 +1691,7 @@
 207.177.230.0/26,US,US-TX,Princeton,
 207.177.230.64/28,US,US-TX,Cibolo,
 207.177.230.128/25,US,US-TX,San Antonio,
+207.177.231.0/24,US,US-TX,Jarrell,
 207.177.232.0/24,US,US-NV,Henderson,
 207.177.233.0/24,US,US-CA,Los Angeles,
 207.177.234.0/26,US,US-NV,Las Vegas,
