@@ -1357,7 +1357,7 @@
 134.56.115.176/28,US,US-FL,Bonita Springs,
 134.56.115.192/28,US,US-FL,Sarasota,
 134.56.115.208/28,US,US-FL,Fort Myers,
-134.56.115.224/27,US,US-FL,Fort Myers,
+134.56.115.224/28,US,US-FL,Fort Myers,
 134.56.115.240/28,US,US-FL,Naples,
 134.56.118.0/25,US,US-FL,Naples,
 134.56.118.128/25,US,US-FL,Naples,
@@ -1772,3 +1772,4 @@
 216.228.29.0/26,US,US-FL,Jacksonville,
 216.228.29.64/26,US,US-FL,Green Cove Springs,
 216.228.29.128/26,US,US-FL,Jacksonville,
+
