@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Dec  1 15:51:11 EST 2025
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Dec  2 17:18:22 EST 2025
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -921,6 +921,7 @@
 174.141.179.128/26,US,US-FL,Miami Beach,
 174.141.180.0/24,US,US-FL,Jacksonville,
 198.105.88.0/25,US,US-FL,San Antonio,
+198.105.88.128/25,US,US-FL,Crandall,
 198.105.90.0/26,US,US-FL,Pompano Beach,
 198.105.90.64/26,US,US-FL,Bonita Springs,
 198.105.90.128/25,US,US-FL,Bonita Springs,
@@ -1351,6 +1352,12 @@
 134.56.78.0/23,US,US-FL,Miami,
 134.56.96.0/24,US,US-FL,Naples,
 134.56.97.0/25,US,US-FL,Boca Raton,
+134.56.97.128/26,US,US-FL,Delray Beach,
+134.56.97.192/28,US,US-FL,Delray Beach,
+134.56.97.208/29,US,US-FL,Delray Beach,
+134.56.97.216/30,US,US-FL,Palm Beach Shores,
+134.56.97.220/30,US,US-FL,Palm Beach Shores,
+134.56.97.224/28,US,US-FL,Bal Harbour,
 134.56.98.0/24,US,US-TX,Katy,
 134.56.99.0/24,US,US-TX,Maxwell,
 134.56.100.0/24,US,US-TX,Katy,
