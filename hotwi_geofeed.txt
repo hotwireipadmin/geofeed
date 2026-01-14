@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Jan 13 10:12:59 EST 2026
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jan 14 12:34:32 EST 2026
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -568,6 +568,7 @@
 146.113.163.64/28,US,US-NC,Holly Springs,
 146.113.163.80/28,US,US-GA,Winder,
 146.113.163.96/28,US,US-GA,Loganville,
+146.113.163.112/28,US,US-TN,Antioch,
 146.113.164.0/22,US,US-NC,Highlands,
 146.113.168.0/22,US,US-NC,Highlands,
 146.113.172.0/23,US,US-NC,Highlands,
@@ -1116,6 +1117,7 @@
 170.250.35.144/28,US,US-FL,Clermont,
 170.250.35.160/28,US,US-FL,Lake Wales,
 170.250.35.224/28,US,US-FL,Saint Cloud,
+170.250.35.240/28,US,US-FL,Eaton Park,
 170.250.48.128/25,US,US-FL,Pompano Beach,
 170.250.35.176/29,US,US-FL,DeFuniak Springs,
 170.250.49.0/25,US,US-FL,Miami,
@@ -1830,3 +1832,7 @@
 139.68.193.128/25,US,US-FL,Jensen Beach,
 139.68.193.64/26,US,US-FL,Jensen Beach,
 139.68.247.0/29,US,US-FL,Jensen Beach,
+139.68.247.8/29,US,US-FL,New Smyrna Beach,
+139.68.247.16/28,US,US-FL,New Smyrna Beach,
+139.68.247.32/28,US,US-FL,Naples,
+139.68.247.64/26,US,US-FL,New Smyrna Beach,
