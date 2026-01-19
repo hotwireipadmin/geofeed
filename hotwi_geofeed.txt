@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Wed Jan 14 12:34:32 EST 2026
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Jan 19 15:05:21 EST 2026
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -26,6 +26,7 @@
 8.20.38.192/26,US,US-FL,Venice,
 8.21.218.0/24,US,US-NC,Raleigh,
 8.22.95.0/24,US,US-FL,Fort Lauderdale,
+8.24.30.0/24,US,US-FL,Dania Beach,
 8.24.24.0/23,US,US-FL,Naples,
 8.24.28.0/24,US,US-FL,Kissimmee,
 8.24.86.0/24,US,US-FL,Kissimmee,
@@ -989,7 +990,7 @@
 96.8.16.192/28,US,US-FL,Palm Beach,
 96.8.16.208/28,US,US-FL,Naples,
 96.8.16.224/28,US,US-FL,Coral Gables,
-96.8.16.240/28,US,US-FL,Wildwood,
+96.8.16.240/28,US,US-FL,Dania Beach,
 96.8.16.112/28,US,US-FL,Boynton Beach,
 96.8.16.128/27,US,US-FL,North Palm Beach,
 96.8.16.160/27,US,US-FL,North Palm Beach,
@@ -1819,6 +1820,7 @@
 198.105.89.240/28,US,US-TX,Kerrville,
 139.68.246.0/24,US,US-FL,Highland Beach,
 74.51.226.0/26,US,US-FL,Highland Beach,
+74.51.226.64/26,US,US-FL,Dania Beach,
 74.51.226.128/27,US,US-FL,West Palm Beach,
 74.51.226.64/26,US,US-FL,Wildwood,
 74.51.226.128/27,US,US-FL,West Palm Beach,
