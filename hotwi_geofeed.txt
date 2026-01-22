@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Jan 19 15:05:21 EST 2026
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Jan 22 10:54:26 EST 2026
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -570,6 +570,8 @@
 146.113.163.80/28,US,US-GA,Winder,
 146.113.163.96/28,US,US-GA,Loganville,
 146.113.163.112/28,US,US-TN,Antioch,
+146.113.163.128/28,US,US-NC,Knightdale,
+146.113.163.144/28,US,US-NC,Youngsville,
 146.113.164.0/22,US,US-NC,Highlands,
 146.113.168.0/22,US,US-NC,Highlands,
 146.113.172.0/23,US,US-NC,Highlands,
@@ -1267,7 +1269,7 @@
 170.250.211.128/25,US,US-FL,Miami,
 170.250.212.0/23,US,US-FL,Naples,
 170.250.214.0/25,US,US-FL,Okahumpka,
-170.250.214.128/25,US,US-FL,Daytona Beach,
+170.250.214.128/25,US,US-FL,Land O' Lakes,
 170.250.228.0/24,US,US-FL,Ponce Inlet,
 170.250.229.0/25,US,US-FL,Ponce Inlet,
 170.250.229.128/26,US,US-FL,Ponce Inlet,
@@ -1798,6 +1800,7 @@
 216.228.20.0/24,US,US-CA,Palm Desert,
 216.228.21.0/25,US,US-CA,Palm Desert,
 216.228.21.128/26,US,US-CA,Los Angeles,
+216.228.21.192/26,US,US-AZ,Mesa,
 216.228.22.0/24,US,US-AZ,Maricopa,
 216.228.23.0/24,US,US-NV,Las Vegas,
 216.228.24.0/24,US,US-NC,Knightdale,
@@ -1837,4 +1840,5 @@
 139.68.247.8/29,US,US-FL,New Smyrna Beach,
 139.68.247.16/28,US,US-FL,New Smyrna Beach,
 139.68.247.32/28,US,US-FL,Naples,
+139.68.247.48/28,US,US-FL,West Palm Beach,
 139.68.247.64/26,US,US-FL,New Smyrna Beach,
