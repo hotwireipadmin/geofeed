@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri Mar 27 17:02:07 EDT 2026
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Mon Apr  6 13:03:02 EDT 2026
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -1790,6 +1790,7 @@
 207.177.234.96/28,US,US-AZ,Phoenix,
 207.177.234.112/28,US,US-NV,Las Vegas,
 207.177.234.128/28,US,US-NV,Las Vegas,
+207.177.234.144/28,US,US-AZ,Peoria,
 207.177.240.0/24,US,US-FL,Eagle Lake,
 207.177.241.0/25,US,US-FL,Ocala,
 207.177.241.128/26,US,US-FL,Ocala,
@@ -1911,11 +1912,14 @@
 170.250.231.0/25,US,US-FL,Miami,
 170.250.216.84/31,US,US-FL,Naples,
 170.250.216.86/31,US,US-FL,Miami,
+170.250.224.0/22,US,US-FL,Fort Myers,
+170.250.234.0/23,US,US-FL,Fort Myers,
 8.28.113.118/31,US,US-NC,Salisbury,
 164.68.254.0/27,US,US-CA,Los Angeles,
 69.29.170.0/28,US,US-FL,Naples,
 69.29.170.32/27,US,US-FL,Boca Raton,
 104.251.128.0/20,US,US-FL,Miami,
-104.251.136.0/22,US,US-FL,Tampa, 
+104.251.136.0/22,US,US-FL,Tampa,
+104.251.136.0/24,US,US-FL,Parrish,
 2604:8200:5010:1001::/64,US,US-GA,Atlanta,
 2604:8200:5010:1002::/64,US,US-NC,Salisbury,
