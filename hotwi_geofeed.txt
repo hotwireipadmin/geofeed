@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Apr 14 12:54:12 EDT 2026
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Apr 14 15:23:31 EDT 2026
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -1226,6 +1226,7 @@
 170.250.108.0/22,US,US-TX,Dallas,
 170.250.108.0/25,US,US-TX,Crandall,
 170.250.109.0/24,US,US-TX,Aubrey,
+170.250.110.0/24,US,US-TX,Crosby,
 170.250.113.192/26,US,US-FL,Miami,
 170.250.114.0/30,US,US-FL,Fort Lauderdale,
 170.250.114.16/28,US,US-FL,Wellington,
