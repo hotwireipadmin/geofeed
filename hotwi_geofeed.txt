@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Thu Apr 23 17:09:22 EDT 2026
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Apr 28 16:39:30 EDT 2026
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -912,6 +912,7 @@
 168.235.128.0/23,US,US-FL,Miami,
 168.235.130.0/23,US,US-FL,Miami,
 168.235.132.0/24,US,US-FL,Miami,
+168.235.133.0/24,US,US-FL,Miami,
 168.235.136.0/24,US,US-TX,Cibolo,
 168.235.137.0/24,US,US-TX,Crandall,
 168.235.138.0/24,US,US-TX,Lowry Crossing,
@@ -1238,6 +1239,7 @@
 170.250.108.0/25,US,US-TX,Crandall,
 170.250.109.0/24,US,US-TX,Aubrey,
 170.250.110.0/24,US,US-TX,Crosby,
+170.250.111.0/24,US,US-TX,Houston,
 170.250.113.192/26,US,US-FL,Miami,
 170.250.114.0/30,US,US-FL,Fort Lauderdale,
 170.250.114.16/28,US,US-FL,Wellington,
@@ -1944,5 +1946,6 @@
 104.251.128.0/20,US,US-FL,Miami,
 104.251.136.0/22,US,US-FL,Tampa,
 104.251.136.0/24,US,US-FL,Parrish,
+104.251.137.0/24,US,US-FL,Parrish,
 2604:8200:5010:1001::/64,US,US-GA,Atlanta,
 2604:8200:5010:1002::/64,US,US-NC,Salisbury,
