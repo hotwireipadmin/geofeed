@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Hotwire Communications US Geofeed,lastupdated (rfc3339): Fri May 29 17:00:16 EDT 2026
+# Hotwire Communications US Geofeed,lastupdated (rfc3339): Tue Jun  9 17:24:52 EDT 2026
 2604:8200::/32,US,US-FL,Fort Lauderdale,
 2607:5400::/32,US,US-FL,Fort Lauderdale,
 8.2.184.0/23,US,US-FL,Fort Lauderdale,
@@ -1130,6 +1130,7 @@
 67.205.217.64/26,US,US-FL,Miami,
 67.205.217.128/26,US,US-FL,Miami,
 67.205.217.192/28,US,US-FL,Wildwood,
+67.205.217.208/28,US,US-FL,Boca Raton,
 67.205.219.0/24,US,US-FL,Tamarac,
 67.205.220.128/25,US,US-FL,Fort Lauderdale,
 67.205.221.0/25,US,US-FL,Pompano Beach,
@@ -1288,6 +1289,7 @@
 170.250.144.0/24,US,US-FL,North Miami,
 170.250.145.0/24,US,US-FL,Miami,
 170.250.146.0/24,US,US-FL,Miami,
+170.250.147.0/24,US,US-FL,Homestead,
 170.250.152.0/22,US,US-TX,Dallas,
 170.250.164.192/28,US,US-FL,Miami Beach,
 170.250.164.208/28,US,US-FL,Boynton Beach,
@@ -1471,6 +1473,7 @@
 134.56.108.128/25,US,US-TX,Houston,
 134.56.109.0/25,US,US-TX,Arcola,
 134.56.110.0/24,US,US-TX,San Antonio,
+134.56.111.0/24,US,US-TX,Houston,
 134.56.112.192/26,US,US-FL,Fort Myers,
 134.56.114.0/25,US,US-FL,North Naples,
 134.56.114.128/25,US,US-FL,Naples,
@@ -1953,6 +1956,7 @@
 8.29.7.0/24,US,US-FL,Fort Lauderdale,
 8.25.238.0/25,US,US-FL,Ocala,
 8.25.238.192/28,US,US-FL,Pace,
+8.25.238.208/28,US,US-FL,Longwood,
 8.25.239.0/24,US,US-FL,Land O' Lakes,
 170.250.8.48/28,US,US-FL,Boca Ration,
 170.250.216.64/26,US,US-FL,Miami,
